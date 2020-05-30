@@ -25,7 +25,7 @@ SECRET_KEY = '*@03+wadp-itx+blp^48=@$2j1$1=9+-uow7pfhwy5_ni-$150'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
